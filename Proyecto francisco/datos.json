@@ -1,0 +1,25 @@
+{
+  "alimentos": [
+    {"nombre": "Pan (1 rebanada)", "calorias": 79},
+    {"nombre": "Huevo (1 unidad grande)", "calorias": 72},
+    {"nombre": "Lonja de Jamón", "calorias": 35},
+    {"nombre": "Lonja de Queso", "calorias": 113},
+    {"nombre": "Pechuga de Pollo (100g)", "calorias": 165},
+    {"nombre": "Arroz blanco (1 taza)", "calorias": 205},
+    {"nombre": "Avena (100g)", "calorias": 389}
+  ],
+  "rutinas": {
+    "aumento_muscular": [
+      "Día 1: Pecho, Triceps, Hombros (Press de banca Inclinado 3x10, Press de pecho 3x10, Press Declinado en Polea o en Polea 3x10 \n Press Frances 4x10, Extensión de triceps 3x10-4x8 \n Press Militar 3x10, Elevaciones laterales 3x10, Vuelo de pajaro 3x10)",
+      "Día 2: Espalda y Bíceps (Dominadas 4x8, Curl con barra 3x12)",
+      "Día 3: Piernas (Sentadillas 4x10, Press militar 4x10)",
+      "Consejo: Prioriza pesos altos. Descansa 90-120s entre series para hipertrofia."
+    ],
+    "reduccion_grasa": [
+      "Día 1: Circuito HIIT (Burpees, Saltos, Flexiones) 30s trabajo / 15s descanso",
+      "Día 2: Cardio continuo moderado (Trotar o Bicicleta estática) - 45 minutos",
+      "Día 3: Entrenamiento metabólico con pesas ligeras (Altas repeticiones sin parar)",
+      "Consejo: Mantén un ritmo cardíaco elevado. Minimiza descansos a 30-45s."
+    ]
+  }
+}

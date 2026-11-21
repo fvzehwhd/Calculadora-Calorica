@@ -1,5 +1,6 @@
 import sqlite3
 import json
+import os
 from datetime import date
 
 class CaloriasModel:
@@ -22,9 +23,9 @@ class CaloriasModel:
 
     def registrar_usuario(self, usuario, password, objetivo, peso, altura, edad, sexo, dias):
         if sexo == 'Hombre':
-            tmb = (10 * peso) + (6.25 * altura) - (5 * edad) + 5
+            tmb = (10 * peso) + (4.5 * altura) - (5 * edad) + 5
         else:
-            tmb = (10 * peso) + (6.25 * altura) - (5 * edad) - 161
+            tmb = (10 * peso) + (4.5 * altura) - (5 * edad) - 161
 
         if dias == 0:
             factor_actividad = 1.0
@@ -88,8 +89,11 @@ class CaloriasModel:
         return self.usuario_actual['meta']
 
     def cargar_datos_estaticos(self):
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        json_path = os.path.join(os.path.join(base_dir, 'datos.json'))
+
         with open('datos.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
+                    return json.load(f)
 
     # --- NUEVA FUNCIÓN PARA EL HISTORIAL ---
     def obtener_historial(self, limite_dias):

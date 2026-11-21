@@ -10,15 +10,14 @@
   ],
   "rutinas": {
     "aumento_muscular": [
-      "Día 1: Pecho, Triceps, Hombros (Press de banca Inclinado 3x10, Press de pecho 3x10, Press Declinado en Polea o en Polea 3x10 \n Press Frances 4x10, Extensión de triceps 3x10-4x8 \n Press Militar 3x10, Elevaciones laterales 3x10, Vuelo de pajaro 3x10)",
-      "Día 2: Espalda y Bíceps (Dominadas 4x8, Curl con barra 3x12)",
-      "Día 3: Piernas (Sentadillas 4x10, Press militar 4x10)",
+      "Día 1-4: Pecho, Triceps, Hombros (Press de banca Inclinado 3x10, Press de pecho 3x10, Press Declinado en Polea o en Polea 3x10 \n Press Frances 4x10, Extensión de triceps 3x10-4x8 \n Press Militar 3x10, Elevaciones laterales 3x10, Vuelo de pajaro 3x10)",
+      "Día 2-5: Espalda, Bíceps, Antebrazos (Jalon al pecho 3x10, Remo en T o en polea 3x8-10, Pull Over 3x8-10 \n Curl Bayesian 3x7-11, Curl Predicador 3x7-11, Curl Martillo 3x7-11 \n Extensiones de Antebrazo 4x10, Reverse Curl 4x10)",
+      "Día 3: Piernas (Sentadilla Hacka 3x10, Extensiones de cuadriceps 3x10, Sentadillas Bulgaras 3x10 \n Extensiones de Femorales 3x10, Extensiones de Gemelos 3x10 y 10-25mins de caminadora a ritmo medio-alto)",
       "Consejo: Prioriza pesos altos. Descansa 90-120s entre series para hipertrofia."
     ],
     "reduccion_grasa": [
-      "Día 1: Circuito HIIT (Burpees, Saltos, Flexiones) 30s trabajo / 15s descanso",
-      "Día 2: Cardio continuo moderado (Trotar o Bicicleta estática) - 45 minutos",
-      "Día 3: Entrenamiento metabólico con pesas ligeras (Altas repeticiones sin parar)",
+      "Día 1-4: Circuito HIIT (Burpees, Saltos, Flexiones) 30s trabajo / 15s descanso y repetir 5 veces el Circuito",
+      "Día 2-5: Cardio continuo moderado (Trotar o Bicicleta estática) - 45 minutos",
       "Consejo: Mantén un ritmo cardíaco elevado. Minimiza descansos a 30-45s."
     ]
   }
